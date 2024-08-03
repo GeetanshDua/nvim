@@ -57,7 +57,6 @@ require('lspconfig').clangd.setup {
     on_attach = on_attach,
     capabilities = capabilities,
 }
-]]--
 
 -- Load Mason and LSP configuration for Neovim
 -- Load Mason and LSP configuration for Neovim
